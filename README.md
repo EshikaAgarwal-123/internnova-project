@@ -78,6 +78,33 @@ Project Structure
 - PowerBi: Power BI dashboard
 - Visualization: Python visualization images
 - Reports: Project reports
+Problem Statement
+
+The main objective of this project is to analyze retail sales data to understand sales performance, profitability, customer segments, and regional trends. The project aims to identify business problems and provide data-driven recommendations for improving business performance.
+
+Exploratory Data Analysis (EDA)
+
+Exploratory Data Analysis was performed using Python, Pandas, Matplotlib, and Seaborn.
+
+The analysis included:
+
+- Dataset inspection and descriptive statistics.
+- Checking missing values and removing duplicate records.
+- Analyzing sales, profit, quantity, discount, category, and region.
+- Creating charts to identify patterns and trends.
+- Correlation analysis using a heatmap.
+- Identifying outliers using the IQR method.
+
+Outlier Analysis
+
+The IQR method identified the following outliers:
+
+- Sales: 1,167
+- Profit: 1,881
+- Discount: 855
+- Quantity: 170
+
+These values may represent unusually high or low transactions and should be investigated before making business decisions.
 
 Conclusion
 
