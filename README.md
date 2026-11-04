@@ -108,6 +108,8 @@ These values may represent unusually high or low transactions and should be inve
 
 Conclusion
 
+Git Pull Practice
+
 This project helped analyze retail sales data and identify useful business insights. The analysis can help businesses improve sales performance and make better decisions.
 
 Author
